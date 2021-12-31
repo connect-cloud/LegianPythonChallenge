@@ -26,7 +26,6 @@ __copyright__ = "Copyright 2022, Bart Nijssen"
 __license__ = "GPL"
 __version__ = "1.0"
 __maintainer__ = "Bart Nijssen"
-__email__ = "b.nijssen@legian.nl"
 __status__ = "Production ready"
 
 
