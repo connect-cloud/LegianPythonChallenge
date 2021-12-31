@@ -1,0 +1,17 @@
+[
+    {
+        "hostname": "IOS-Router-1",
+        "type": "cisco_ios",
+        "host": "10.1.1.1"
+    },
+    {
+        "hostname": "IOS-Router-2",
+        "type": "cisco_ios",
+        "host": "IOS-Router-2.network.net"
+    },
+    {
+        "hostname": "nxos-switch1",
+        "type": "cisco_nxos",
+        "host": "nxos-switch1.network.net"
+    }
+]

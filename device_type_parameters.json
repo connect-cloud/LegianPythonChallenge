@@ -1,0 +1,30 @@
+{
+  "cisco_ios": {
+    "initial_commands": [
+      "terminal length 0",
+      "terminal width 512"
+    ],
+    "show_commands" : [
+      "show version",
+      "show ip route"
+    ]
+  },
+  "cisco_xr": {
+    "initial_commands": [
+      "terminal length 0",
+      "terminal width 512"
+    ],
+    "show_commands" : [
+      "show version"
+    ]
+  },
+  "cisco_nxos": {
+    "initial_commands": [
+      "terminal length 0",
+      "terminal width 511"
+    ],
+    "show_commands" : [
+      "show version"
+    ]
+  }
+}
